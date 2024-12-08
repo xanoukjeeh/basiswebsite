@@ -3,12 +3,12 @@
 /**************/
 @font-face {
 	font-family: "HelloKitty";
-	src: url("/fonts/frankfurter-std-regular.otf");
+	src: url("./fonts/frankfurter-std-regular.otf");
 }
 
 @font-face {
 	font-family:"Futura";
-	src: url("/fonts/FuturaCyrillicBook.ttf");
+	src: url("./fonts/FuturaCyrillicBook.ttf");
 }
 
 @keyframes wiggling {
