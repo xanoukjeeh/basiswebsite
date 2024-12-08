@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "fonts"
+		},
+		{
+			"path": "images"
+		},
+		{
+			"path": "readme-images"
+		},
+		{
+			"path": "scripts"
+		},
+		{
+			"path": "styles"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": null
+	}
+}
