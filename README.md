@@ -55,7 +55,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
   <img src="./images/blz1-wcagchecklist.jpg" width="375px" alt="bladzijde 1 wcag checklist">
-  <img src="./images/blz2-wcagchecklist.jpg" width="375px" alt="bladzijde 2 wcag checklist">
+  <img src="./images/blz1-wcagchecklist.jpg" width="375px" alt="bladzijde 2 wcag checklist">
   <img src="./images/blz3-wcagchecklist.jpg" width="375px" alt="bladzijde 3 wcag checklist">
   <img src="./images/blz4-wcagchecklist.jpg" width="375px" alt="bladzijde 4 wcag checklist">
   <img src="./images/blz5-wcagchecklist.jpg" width="375px" alt="bladzijde 5 wcag checklist">
