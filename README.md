@@ -54,11 +54,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
-  <img src="./images/blz1-wcagchecklist.jpg" width="375px" alt="bladzijde 1 wcag checklist">
-  <img src="./images/blz1-wcagchecklist.jpg" width="375px" alt="bladzijde 2 wcag checklist">
-  <img src="./images/blz3-wcagchecklist.jpg" width="375px" alt="bladzijde 3 wcag checklist">
-  <img src="./images/blz4-wcagchecklist.jpg" width="375px" alt="bladzijde 4 wcag checklist">
-  <img src="./images/blz5-wcagchecklist.jpg" width="375px" alt="bladzijde 5 wcag checklist">
+  <img src="./images/blz1wcag.jpg" width="375px" alt="bladzijde 1 wcag checklist">
+  <img src="./images/blz2wcag.jpg" width="375px" alt="bladzijde 2 wcag checklist">
+  <img src="./images/blz3wcag.jpg" width="375px" alt="bladzijde 3 wcag checklist">
+  <img src="./images/blz4wcag.jpg" width="375px" alt="bladzijde 4 wcag checklist">
+  <img src="./images/blz5wcag.jpg" width="375px" alt="bladzijde 5 wcag checklist">
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
   Bladzijde 1: 
@@ -176,11 +176,11 @@ Ik wilde graag met de studenten assistent bespreken waarom mijn website niet wil
   k ben er achter gekomen dat ik bij sommige p's wel een heading moet gebruiken, want nu kan de screenreader die niet lezen. Ook moet ik de a tussen de elementen zetten en er niet in. Verder moet ik er over nadenken of ik de skiplink erin wil zetten. (als ik nog tijd over heb). Verder moet ik bij de nav die komt te voorschijn als ik met de screenreader ga werken, daaro pmoet ik dan een aria-hidden plaatsen. Daar ga ik later op de middag naar kijken. Verder is het ook een idee om de nav aan de onderkant te zetten, maar ik moet nog even begrijpen hoe dat werkt. Verder moet ik ook alle dubbele P's vervangen met de h3. Ik heb in de middag even de punten aangepast
 </details>
 
-<img src="./images/wcag checklist 2.1.JPG" width="375px" alt="wcag checklist 2.1">
-<img src="./images/wcag checklist 2.2.JPG" width="375px" alt="wcag checklist 2.2">
-<img src="./images/wcag checklist 2.3.JPG" width="375px" alt="wcag checklist 2.3">
-<img src="./images/wcag checklist 2.4.JPG" width="375px" alt="wcag checklist 2.4">
-<img src="./images/wcag checklist 2.5.JPG" width="375px" alt="wcag checklist 2.5">
+<img src="./images/blz1wcag2.jpg" width="375px" alt="wcag checklist 2.1">
+<img src="./images/blz2wcag2.jpg" width="375px" alt="wcag checklist 2.2">
+<img src="./images/blz3wcag2.jpg" width="375px" alt="wcag checklist 2.3">
+<img src="./images/blz4wcag2.jpg" width="375px" alt="wcag checklist 2.4">
+<img src="./images/blz5wcag2.jpg" width="375px" alt="wcag checklist 2.5">
 
 
 
